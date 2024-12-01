@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codee/static/css/main.e6c13ad2.css",
+    "main.js": "/codee/static/js/main.4e8cf988.js",
+    "static/js/453.f19e9853.chunk.js": "/codee/static/js/453.f19e9853.chunk.js",
+    "index.html": "/codee/index.html",
+    "main.e6c13ad2.css.map": "/codee/static/css/main.e6c13ad2.css.map",
+    "main.4e8cf988.js.map": "/codee/static/js/main.4e8cf988.js.map",
+    "453.f19e9853.chunk.js.map": "/codee/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e8cf988.js"
+  ]
+}
